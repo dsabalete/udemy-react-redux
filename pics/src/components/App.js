@@ -4,7 +4,7 @@ import ImageList from "./ImageList";
 
 const App = () => {
   return (
-    <div>
+    <div className="ui container" style={{ marginTop: '10px'}}>
       <SearchBar />
       <ImageList />
     </div>
