@@ -1,7 +1,10 @@
 import React from 'react';
+// import { selectSong } from '../actions';
 
-const App = () => {
-    return <div>App</div>;
+class App extends React.Component {
+    render() {
+        return <div>App</div>;
+    }
 }
 
 export default App;
