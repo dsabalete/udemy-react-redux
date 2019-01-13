@@ -5,10 +5,16 @@
       "description": "Amazing stream",
       "id": 1
     },
-	{
+    {
       "title": "Other Streams",
       "description": "Here's some stream",
       "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "userId": "102634793846034074738",
+      "id": 3
     }
   ]
 }
