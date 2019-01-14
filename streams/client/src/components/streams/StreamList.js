@@ -37,7 +37,6 @@ class StreamList extends React.Component {
   }
 
   renderCreate() {
-    console.log(this.props);
     if (this.props.isSignedIn) {
       return (
         <div style={{ textAlign: 'right' }}>
